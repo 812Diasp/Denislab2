@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1A1A2E"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Ткаченко Денис | ИНС-24-2 | 23.06.2006"
+        android:textSize="15sp"
+        android:textColor="#E0E0E0"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="#16213E"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ЛР №2 — XML-разметка и Layout"
+        android:textSize="18sp"
+        android:textColor="#94A3B8"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <Button android:id="@+id/btnTask2"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Задание 2 — LinearLayout vertical"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnTask3"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Задание 3 — horizontal + rtl"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnFig5"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Часть 1 — Рисунок 5: вложенные LinearLayout"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnFig8"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Часть 1 — Рисунок 8: цветные блоки"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnGrid"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Задание 4 — GridLayout 3×3"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnGridSpan"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Задание 5 — GridLayout columnSpan"
+        android:layout_marginBottom="8dp" />
+
+    <Button android:id="@+id/btnLetterN"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Вариант 8 — Буква «Н»"
+        android:layout_marginBottom="8dp" />
+
+</LinearLayout>
