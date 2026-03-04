@@ -1,4 +1,4 @@
-````markdown
+
 # Лабораторная работа №2 — Основы XML-разметки. LinearLayout и GridLayout
 
 **Дисциплина:** Программирование мобильных устройств  
@@ -42,6 +42,17 @@ app/src/main/
 │       └── activity_letter_n.xml
 └── AndroidManifest.xml
 ```
+
+Рисунки:
+Главный экран <img width="1922" height="1201" alt="изображение" src="https://github.com/user-attachments/assets/38a5396a-9552-4e2d-89f7-be08ce3fe3a2" />
+Задание 2 <img width="914" height="1409" alt="изображение" src="https://github.com/user-attachments/assets/8b70e82b-fe5c-4814-8eb4-7614f14fa2f1" />
+Задание 3 <img width="867" height="1339" alt="изображение" src="https://github.com/user-attachments/assets/22f49665-5a1c-4862-b2de-879c2914f186" />
+Вложенные Layout <img width="2560" height="1600" alt="изображение" src="https://github.com/user-attachments/assets/f1141cc5-3636-4c5f-bafc-9b2a2cf47e0b" />
+Цветные полоски <img width="793" height="1310" alt="изображение" src="https://github.com/user-attachments/assets/14f3bad2-5320-4296-a724-71f25f57f176" />
+Задание 4 Grid 3x3 <img width="827" height="1380" alt="изображение" src="https://github.com/user-attachments/assets/750cb940-56d8-44bd-ab41-b1b20d371349" />
+Задание 5 <img width="745" height="1289" alt="изображение" src="https://github.com/user-attachments/assets/df92562a-10e2-4008-9e4b-98cd83be7574" />
+Буква Н <img width="778" height="1355" alt="изображение" src="https://github.com/user-attachments/assets/0978dbdf-1640-4d24-b2ab-228e607588c0" />
+
 
 ---
 
